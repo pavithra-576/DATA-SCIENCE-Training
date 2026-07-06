@@ -32,7 +32,7 @@ I'm a Data Science student, and this repo is where I document what I learn — o
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/pavithra-576/machine-learning-concepts.git
+   git clone https://github.com/pavithra-576/DATA-SCIENCE-Training
    ```
 2. Open any topic folder
 3. Run the notebook in Jupyter or Google Colab
