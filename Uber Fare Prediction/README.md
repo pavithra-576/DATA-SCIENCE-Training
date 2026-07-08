@@ -114,7 +114,7 @@ The Random Forest model significantly outperformed Linear Regression by capturin
 Uber-Fare-Prediction/
 │
 ├── Uber.csv
-├── Uber.ipynb
+├── Uber_ML.ipynb
 ├── README.md
 └── requirements.txt
 ```
