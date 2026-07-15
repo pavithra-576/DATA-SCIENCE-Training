@@ -1,6 +1,5 @@
-# DATA-SCIENCE-Training
-
-# Machine Learning Concepts
+# DATA-SCIENCE-Training - 
+01.#MACHINE LEARNING CONCEPTS 
 
 This repository contains my notes, code, and practice notebooks from learning **Machine Learning** as part of my Data Science training. Each folder covers one concept, with explanations and hands-on implementation.
 
